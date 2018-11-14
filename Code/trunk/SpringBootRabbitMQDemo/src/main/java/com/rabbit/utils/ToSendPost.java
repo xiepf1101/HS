@@ -1,4 +1,4 @@
-package com.rabbit.utils;
+﻿package com.rabbit.utils;
 
 import java.io.BufferedReader;
 import java.io.InputStream;
@@ -19,7 +19,11 @@ import org.apache.log4j.Logger;
 import com.alibaba.fastjson.JSONArray;
 import com.alibaba.fastjson.JSONObject;
 
-
+/*
+ * 一切照旧
+ * 春夏秋冬还是喜欢晴天
+ * 一年四季还是习惯清晨开始傍晚结束
+ */
 public class ToSendPost {
 
 	private static Logger logger = Logger.getLogger(ToSendPost.class);
